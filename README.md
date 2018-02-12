@@ -1,6 +1,9 @@
 # HIFLY-Java-Server
 > [HIFLY Final](https://github.com/HIFLY-CSM/HIFLY-Final) 참조
 
+FFServer와 FFMpeg를 Process Builder를 이용하여 실행시키기 때문에 따로 FFServer를 실행시킬 필요가 없습니다.<br/>
+FFServer와 FFMpeg의 Commends는 코드에 있으니 참고하시기 바랍니다.
+
 ## 사용 법
 
 1. Ubuntu 이클립스에서 프로젝트를 Open한다.
